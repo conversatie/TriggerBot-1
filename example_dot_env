@@ -1,9 +1,9 @@
 # Copy this file, rename it to .env and fill/change the values.
 # Example token:
 # BOT_TOKEN=157963248:AwwecwWEgTGD85wewert23fgttytWDEgT5R
-BOT_TOKEN=
+BOT_TOKEN=1908335294:AAGJDtPL5SyTMQRQonybbB3MlFXyIgkAXbg
 # Example ID:
-# OWNER_ID=9284284
+# OWNER_ID=973861411
 OWNER_ID=
 # Change to True or False
 DEBUG=False
